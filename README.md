@@ -1,4 +1,4 @@
-webcamfwd
-=========
+webcamforward_server
+====================
 
-To run it, run server.py from the src folder. Requires Twisted.
+Webcamforward Forwarder server written in Twisted
